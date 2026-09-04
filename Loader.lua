@@ -1,5 +1,4 @@
--- Cambia esta URL por la rama publica donde alojes los scripts.
-local SCRIPT_ROOT = ""
+local SCRIPT_ROOT = "https://raw.githubusercontent.com/Guild-Studio/Yolk-Hub/refs/heads/main/Loader.lua"
 
 local scriptsByPlaceId = {
     -- +1 Drean Water
