@@ -1,14 +1,7 @@
 local SCRIPT_ROOT = "https://raw.githubusercontent.com/Guild-Studio/Yolk-Hub/refs/heads/main/"
 
 local scriptsByPlaceId = {
-    -- +1 Drean Water
-    [103883942725157] = "Games/+1 Drean Water.lua",
-
-    -- +1 Scape Monkey
     [114697347887839] = "Games/+1 Scape Monkey.lua",
-
-    -- Deep Pull
-    [136315980548808] = "Games/Deep Pull Dev.lua",
 }
 
 local function loadScript(path)
