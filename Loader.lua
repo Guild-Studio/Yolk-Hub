@@ -1,4 +1,4 @@
-local SCRIPT_ROOT = "https://raw.githubusercontent.com/Guild-Studio/Yolk-Hub/refs/heads/main/Loader.lua"
+local SCRIPT_ROOT = "https://raw.githubusercontent.com/Guild-Studio/Yolk-Hub/refs/heads/main/"
 
 local scriptsByPlaceId = {
     -- +1 Drean Water
