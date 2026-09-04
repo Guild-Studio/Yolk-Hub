@@ -7,7 +7,7 @@ local scriptsByPlaceId = {
     -- +1 Scape Monkey
     [114697347887839] = "Games/+1 Scape Monkey.lua",
 
-    -- Arsenal
+    -- Deep Pull
     [136315980548808] = "Games/Deep Pull Dev.lua",
 }
 
