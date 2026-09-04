@@ -34,5 +34,5 @@ if not success then
     return
 end
 
-print("Script started: " .. scriptPath)
+warn("Started: " .. scriptPath)
 return result
