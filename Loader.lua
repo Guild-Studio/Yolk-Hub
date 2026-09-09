@@ -1,9 +1,9 @@
 local SCRIPT_ROOT = "https://raw.githubusercontent.com/Guild-Studio/Yolk-Hub/refs/heads/main/"
 
 local scriptsByPlaceId = {
-    [114697347887839] = "Games/+1 Scape Monkey-obfuscated.lua",
+    [114697347887839] = "Games/+1 Scape Monkey-obfuscatedv2.lua",
 
-    [72858062353423] = "Games/1+ Scape Monkey-obfuscated.lua",
+    [72858062353423] = "Games/+1 Scape Monkey-obfuscatedv2.lua",
 }
 
 local function loadScript(path)
