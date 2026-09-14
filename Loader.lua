@@ -5,6 +5,9 @@ local scriptsByPlaceId = {
     [114697347887839] = "Games/+1 Scape Monkey.lua",
 
     [72858062353423] = "Games/+1 Scape Monkey.lua",
+
+    --World1 -  +1 Monkey Evolution
+    [91701030914075] = "Games/+1 Monkey Evolution.lua",
 }
 
 local function encodeUrlPath(path)
